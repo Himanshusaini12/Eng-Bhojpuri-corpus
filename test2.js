@@ -5,7 +5,7 @@ const fs = require('fs');
     const pathToExtension = require('path').join(__dirname, 'CapSolver.Browser.Extension');
 
     const browser = await puppeteer.launch({
-        headless: false,
+        headless: "new",
         args: [
             `--disable-extensions-except=${pathToExtension}`,
             `--load-extension=${pathToExtension}`,
@@ -17,7 +17,7 @@ const fs = require('fs');
     let failedLinks = []; // Array to store failed links
 
     // Read restaurant links from the JSON file
-    const links = JSON.parse(fs.readFileSync('links.json', 'utf8'));
+    const links = JSON.parse(fs.readFileSync('links2.json', 'utf8'));
 
     for (const linkObj of links) {
         const page = await browser.newPage();
@@ -70,7 +70,7 @@ const fs = require('fs');
 
             // Write scraped data to a JSON file after scraping each page
             const jsonData = JSON.stringify(scrapedData, null, 2);
-            fs.writeFileSync('scraped_data.json', jsonData);
+            fs.writeFileSync('scraped_data2.json', jsonData);
 
             //console.log('Scraped data saved after scraping page', linkObj.href);
             console.log('Number of scraped links:', scrapedData.length);

@@ -14,7 +14,6 @@ const fs = require('fs');
     });
 
     let scrapedData = []; // Array to store scraped data
-    let failedLinks = []; // Array to store failed links
 
     // Read restaurant links from the JSON file
     const links = JSON.parse(fs.readFileSync('links.json', 'utf8'));
@@ -24,17 +23,7 @@ const fs = require('fs');
         await page.goto(linkObj.href, { waitUntil: 'domcontentloaded' });
 
         try {
-             
-
-            const captchaForm = await page.$('.contact_form.ab_check_form');
-        if (captchaForm) {
-           
-            await page.waitForTimeout(20000)
-            
-            await page.click('.btn_wrapper input[type="submit"]');
-         
-        }
-
+            // Wait for the title and contact information to load   
             await page.waitForSelector('.title_container .notranslate');
             await page.waitForSelector('.buttons_wrapper');
             await page.waitForSelector('.address'); // Wait for the address to load
@@ -71,25 +60,14 @@ const fs = require('fs');
             // Write scraped data to a JSON file after scraping each page
             const jsonData = JSON.stringify(scrapedData, null, 2);
             fs.writeFileSync('scraped_data.json', jsonData);
-
-            //console.log('Scraped data saved after scraping page', linkObj.href);
-            console.log('Number of scraped links:', scrapedData.length);
-            console.log('Number of failed links:', failedLinks.length);
+            console.log('Scraped data saved after scraping page', linkObj.href);
 
         } catch (error) {
             console.error('Error during scraping:', error);
-            failedLinks.push(linkObj.href); // Add the failed link to the array
         }
 
         await page.close();
     }
-
-    // Console the number of scraped links
-    console.log('Number of scraped links:', scrapedData.length);
-
-    // Console the number of failed links
-    console.log('Number of failed links:', failedLinks.length);
-    console.log('Failed links:', failedLinks);
 
     await browser.close();
 
