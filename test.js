@@ -2,17 +2,6 @@ const puppeteer = require('puppeteer');
 const fs = require('fs');
 
 (async () => {
-    const pathToExtension = require('path').join(__dirname, 'CapSolver.Browser.Extension');
-
-    const browser = await puppeteer.launch({
-        headless: false,
-        args: [
-            `--disable-extensions-except=${pathToExtension}`,
-            `--load-extension=${pathToExtension}`,
-            '--no-sandbox', '--window-size=1400,800'
-        ],
-    });
-
     let scrapedData = []; // Array to store scraped data
     let failedLinks = []; // Array to store failed links
 
@@ -20,24 +9,29 @@ const fs = require('fs');
     const links = JSON.parse(fs.readFileSync('links.json', 'utf8'));
 
     for (const linkObj of links) {
-        const page = await browser.newPage();
-        await page.goto(linkObj.href, { waitUntil: 'domcontentloaded' });
+        const pathToExtension = require('path').join(__dirname, 'CapSolver.Browser.Extension');
+        const browser = await puppeteer.launch({
+            headless: "new",
+            args: [
+                `--disable-extensions-except=${pathToExtension}`,
+                `--load-extension=${pathToExtension}`,
+                '--no-sandbox', '--window-size=1400,800'
+            ],
+        });
 
         try {
-             
+            const page = await browser.newPage();
+            await page.goto(linkObj.href, { waitUntil: 'domcontentloaded' });
 
             const captchaForm = await page.$('.contact_form.ab_check_form');
-        if (captchaForm) {
-           
-            await page.waitForTimeout(20000)
-            
-            await page.click('.btn_wrapper input[type="submit"]');
-         
-        }
+            if (captchaForm) {
+                await page.waitForTimeout(20000)
+                await page.click('.btn_wrapper input[type="submit"]');
+            }
 
-            await page.waitForSelector('.title_container .notranslate');
+            //await page.waitForSelector('.title_container .notranslate');
             await page.waitForSelector('.buttons_wrapper');
-            await page.waitForSelector('.address'); // Wait for the address to load
+            // await page.waitForSelector('.address'); // Wait for the address to load
 
             // Extract data from the page
             const titleElement = await page.$('.title_container .notranslate');
@@ -72,17 +66,20 @@ const fs = require('fs');
             const jsonData = JSON.stringify(scrapedData, null, 2);
             fs.writeFileSync('scraped_data.json', jsonData);
 
-            //console.log('Scraped data saved after scraping page', linkObj.href);
             console.log('Number of scraped links:', scrapedData.length);
             console.log('Number of failed links:', failedLinks.length);
 
         } catch (error) {
             console.error('Error during scraping:', error);
             failedLinks.push(linkObj.href); // Add the failed link to the array
+        } finally {
+            await browser.close();
         }
-finally{
-        await page.close();}
     }
+
+    // Write failed links to a JSON file
+    const failedLinksJson = JSON.stringify(failedLinks, null, 2);
+    fs.writeFileSync('failed_links.json', failedLinksJson);
 
     // Console the number of scraped links
     console.log('Number of scraped links:', scrapedData.length);
@@ -90,8 +87,6 @@ finally{
     // Console the number of failed links
     console.log('Number of failed links:', failedLinks.length);
     console.log('Failed links:', failedLinks);
-
-    await browser.close();
 
     console.log('Scraping complete!');
 })();
