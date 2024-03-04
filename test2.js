@@ -21,19 +21,14 @@ const fs = require('fs');
 
     for (const linkObj of links) {
         const page = await browser.newPage();
-        await page.goto(linkObj.href, { waitUntil: 'domcontentloaded' });
-
         try {
-             
+            await page.goto(linkObj.href, { waitUntil: 'domcontentloaded' });
 
             const captchaForm = await page.$('.contact_form.ab_check_form');
-        if (captchaForm) {
-           
-            await page.waitForTimeout(20000)
-            
-            await page.click('.btn_wrapper input[type="submit"]');
-         
-        }
+            if (captchaForm) {
+                await page.waitForTimeout(20000)
+                await page.click('.btn_wrapper input[type="submit"]');
+            }
 
             await page.waitForSelector('.title_container .notranslate');
             await page.waitForSelector('.buttons_wrapper');
@@ -72,16 +67,18 @@ const fs = require('fs');
             const jsonData = JSON.stringify(scrapedData, null, 2);
             fs.writeFileSync('scraped_data2.json', jsonData);
 
-            //console.log('Scraped data saved after scraping page', linkObj.href);
+            // Console the number of scraped links
             console.log('Number of scraped links:', scrapedData.length);
+            // Console the number of failed links
             console.log('Number of failed links:', failedLinks.length);
 
         } catch (error) {
             console.error('Error during scraping:', error);
             failedLinks.push(linkObj.href); // Add the failed link to the array
+        } finally {
+            // Close the page whether an error occurred or not
+            await page.close();
         }
-
-        await page.close();
     }
 
     // Console the number of scraped links

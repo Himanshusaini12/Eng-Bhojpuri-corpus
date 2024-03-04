@@ -80,8 +80,8 @@ const fs = require('fs');
             console.error('Error during scraping:', error);
             failedLinks.push(linkObj.href); // Add the failed link to the array
         }
-
-        await page.close();
+finally{
+        await page.close();}
     }
 
     // Console the number of scraped links
