@@ -1,0 +1,1858 @@
+[
+  {
+    "title": "West of Orleans",
+    "contactInfo": "tel:+18054997400",
+    "cuisine": "Cajun, Creole, Southern Cajun, Creole, Southern, Barbecue, Vegetarian options",
+    "fullAddressText": "Address 3321 Kimber Dr C, Thousand Oaks, California, USA",
+    "website": "westoforleans.com",
+    "socialMediaHandle": "@westoforleans"
+  },
+  {
+    "title": "Toups' Kajun Kitchen",
+    "contactInfo": "tel:+13374041010",
+    "cuisine": "Seafood, Cajun, Creole Seafood, Cajun, Creole, Vegetarian options",
+    "fullAddressText": "Address 1198 N 6th St, Leesville, Louisiana, USA",
+    "website": "facebook.com",
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Main Street Market",
+    "contactInfo": "tel:+16016348088",
+    "cuisine": "Cajun, Creole, American Cajun, Creole, American, Southern, Vegetarian",
+    "fullAddressText": "Address 902 Cherry St, Vicksburg, Mississippi, USA",
+    "website": "mainstreetmarketcafe.com",
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Flatted Fifth Blues & BBQ, menu",
+    "contactInfo": "tel:+15638723838",
+    "cuisine": "Barbecue, Cajun, Southern Barbecue, Cajun, Southern, Vegetarian options",
+    "fullAddressText": "Address 300 Potter Dr, Bellevue, Iowa, USA",
+    "website": "pottersmill.net",
+    "socialMediaHandle": "@flattedfifthbbq"
+  },
+  {
+    "title": "What BBQ & Bar",
+    "contactInfo": "tel:+15637291136",
+    "cuisine": "Barbecue, American, Cajun Barbecue, American, Cajun, Creole",
+    "fullAddressText": "Address 106 S Cody Rd, Le Claire, Iowa, USA",
+    "website": "whatbbqbar.com",
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Terrebonne Po' Boys",
+    "contactInfo": "tel:+17858563287",
+    "cuisine": "Cajun, Creole, Sandwiches Cajun, Creole, Sandwiches, Vegetarian options",
+    "fullAddressText": "Address 845 Massachusetts St, Lawrence, Kansas, USA",
+    "website": "terrebonnelfk.com",
+    "socialMediaHandle": "@terrebonnecafe"
+  },
+  {
+    "title": "Poche's Market & Restaurant",
+    "contactInfo": "tel:+13373322108",
+    "cuisine": "Cajun, Creole, Seafood",
+    "fullAddressText": "Address 3015 Main Hwy A, Breaux Bridge, Louisiana, USA",
+    "website": "poches.com",
+    "socialMediaHandle": "@pochesmarket"
+  },
+  {
+    "title": "The Dancing Crab",
+    "contactInfo": "tel:+14076368033",
+    "cuisine": "Seafood, Cajun, Creole Seafood, Cajun, Creole, Cocktail bars",
+    "fullAddressText": "Address 884 W State Rd 436, Altamonte Springs, Florida, USA",
+    "website": null,
+    "socialMediaHandle": "@thedancingcrab"
+  },
+  {
+    "title": "Casian Seafood",
+    "contactInfo": "tel:+17202165704",
+    "cuisine": "Seafood, Cajun, Creole Seafood, Cajun, Creole, Vegetarian options",
+    "fullAddressText": "Address 211 N Public Rd #110, Lafayette, Colorado, USA",
+    "website": null,
+    "socialMediaHandle": "@casian_seafood"
+  },
+  {
+    "title": "Russo's",
+    "contactInfo": "tel:+13309232665",
+    "cuisine": "Italian, Cajun, Creole Italian, Cajun, Creole, Vegetarian options",
+    "fullAddressText": "Address 4895 State Rd, Peninsula, Ohio, USA",
+    "website": "russosbacchus.com",
+    "socialMediaHandle": "@russoskitchen"
+  },
+  {
+    "title": "River Terrace",
+    "contactInfo": "tel:+19312235135",
+    "cuisine": "Cajun, Seafood, Creole Cajun, Seafood, Creole, Italian, Wine bars, Vegetarian options",
+    "fullAddressText": "Address 1000 Riverside Dr, Columbia, Tennessee, USA",
+    "website": "RiverTerraceRestaurant.com",
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Crazy Crab Seafood Restaurant",
+    "contactInfo": "tel:+18472529555",
+    "cuisine": "Seafood, Cajun, Creole Seafood, Cajun, Creole, American, Vegetarian options",
+    "fullAddressText": "Address 279 Barrington Rd, Streamwood, Illinois, USA",
+    "website": null,
+    "socialMediaHandle": "@crazycrabseafoodandgrill"
+  },
+  {
+    "title": "Turf N' Surf Po Boy",
+    "contactInfo": "tel:+15122762763",
+    "cuisine": "Seafood, Cajun, Creole Seafood, Cajun, Creole, American, Vegetarian options",
+    "fullAddressText": "Address 407 Lavaca St, Austin, Texas, USA",
+    "website": "lavacastreet.com",
+    "socialMediaHandle": "@turfnsurfpoboy"
+  },
+  {
+    "title": "French Quarter Grille",
+    "contactInfo": "tel:+15128329090",
+    "cuisine": "Cajun, Seafood, American Cajun, Seafood, American, Creole, Vegetarian options",
+    "fullAddressText": "Address 13000 Interstate 35 #600, Austin, Texas, USA",
+    "website": "frenchquartergrilleaustin.com",
+    "socialMediaHandle": "@frenchquarterbargrill"
+  },
+  {
+    "title": "Superior Seafood & Oyster Bar",
+    "contactInfo": "tel:+15042933474",
+    "cuisine": "Seafood, Cajun, Creole Seafood, Cajun, Creole, French, Vegetarian options",
+    "fullAddressText": "Address 4338 St Charles Ave, New Orleans, Louisiana, USA",
+    "website": "superiorseafoodnola.com",
+    "socialMediaHandle": "@superiorseafood"
+  },
+  {
+    "title": "The Keg in Murray",
+    "contactInfo": "tel:+12707620040",
+    "cuisine": "American, Cajun, Barbecue American, Cajun, Barbecue, Creole, Steakhouses, Seafood",
+    "fullAddressText": "Address 1051 N 16th St, Murray, Kentucky, USA",
+    "website": "thekegmurray.com",
+    "socialMediaHandle": "@thekegmurray"
+  },
+  {
+    "title": "Feed Bin Cafe",
+    "contactInfo": "tel:+18702853122",
+    "cuisine": "American, Seafood, Cajun American, Seafood, Cajun, Creole, Fast food",
+    "fullAddressText": "Address 61 Courthouse Square, Murfreesboro, Arkansas, USA",
+    "website": "feedbincafe.com",
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Hambone's Cajun Grill",
+    "contactInfo": "tel:+19037292663",
+    "cuisine": "Cajun, Creole, Seafood",
+    "fullAddressText": "Address 213 E Crawford St, Palestine, Texas, USA",
+    "website": "facebook.com",
+    "socialMediaHandle": null
+  },
+  {
+    "title": "J. Gumbo's Delaware County",
+    "contactInfo": "tel:+17403689494",
+    "cuisine": "Cajun, Creole, Vegetarian Cajun, Creole, Vegetarian, Gluten-free",
+    "fullAddressText": "Address 39 E William St, Delaware, Ohio, USA",
+    "website": "facebook.com",
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Cajun Crab Shack",
+    "contactInfo": "tel:+15165198821",
+    "cuisine": "Cajun, Seafood, Creole Cajun, Seafood, Creole, Cocktail bars, Vegetarian options",
+    "fullAddressText": "Address 230 Jericho Turnpike, Floral Park, New York, USA",
+    "website": "crabshacknyc.com",
+    "socialMediaHandle": "@hookandreelny"
+  },
+  {
+    "title": "Georgia Blue",
+    "contactInfo": "tel:+16019905060",
+    "cuisine": "American, Cajun, Creole American, Cajun, Creole, New American, Vegetarian options",
+    "fullAddressText": "Address 107 S Railroad Ave, Brookhaven, Mississippi, USA",
+    "website": "georgiablue.net",
+    "socialMediaHandle": "@georgiablue_ms"
+  },
+  {
+    "title": "Gabe's Downtown",
+    "contactInfo": "tel:+17707651951",
+    "cuisine": "Creole, Cajun, Pizza Creole, Cajun, Pizza, Seafood, Wine bars, Sandwiches, Vegetarian options",
+    "fullAddressText": "Address 6716 Church St, Douglasville, Georgia, USA",
+    "website": null,
+    "socialMediaHandle": "@gabesdowntown"
+  },
+  {
+    "title": "Fabiano's River House Bar & Grill",
+    "contactInfo": "tel:+15176474400",
+    "cuisine": "American, Cajun, Creole American, Cajun, Creole, Pizza",
+    "fullAddressText": "Address 104 W Grand River Ave, Portland, Michigan, USA",
+    "website": "riverhousebarandgrill.com",
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Walk-On's Sports Bistreaux - Houma Restaurant",
+    "contactInfo": "tel:+19852628501",
+    "cuisine": "American, Cajun, Creole American, Cajun, Creole, Vegetarian options",
+    "fullAddressText": "Address 1795 Martin Luther King Jr Blvd, Houma, Louisiana, USA",
+    "website": "locate.walk-ons.com",
+    "socialMediaHandle": "@walkons"
+  },
+  {
+    "title": "Bayou On Bay",
+    "contactInfo": "tel:+13607522968",
+    "cuisine": "Cajun, Creole, New American Cajun, Creole, New American, Seafood, Vegetarian options",
+    "fullAddressText": "Address 1300 Bay St, Bellingham, Washington, USA",
+    "website": "bayouonbay.com",
+    "socialMediaHandle": "@bayouonbay"
+  },
+  {
+    "title": "Hot Tails, menu",
+    "contactInfo": "tel:+12256384676",
+    "cuisine": "Seafood, Cajun, Creole Seafood, Cajun, Creole, Vegetarian options",
+    "fullAddressText": "Address 1113 Hospital Rd, New Roads, Louisiana, USA",
+    "website": null,
+    "socialMediaHandle": "@hottailsprairieville"
+  },
+  {
+    "title": "Ollie's Juke Joint & Cafe",
+    "contactInfo": "tel:+15807455783",
+    "cuisine": null,
+    "fullAddressText": "Address 4030 Enos/Shay Rd",
+    "website": "facebook.com",
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Orleans & York",
+    "contactInfo": "tel:+13103243100",
+    "cuisine": "Cajun, Delis, Creole Cajun, Delis, Creole, Vegetarian options",
+    "fullAddressText": "Address 673 E University Dr, Carson, California, USA",
+    "website": "orleansandyorkdeli.com",
+    "socialMediaHandle": "@orleansandyorkdeli"
+  },
+  {
+    "title": "The Artemis - DC Sports Bar, Live Music, Happy Hour",
+    "contactInfo": "tel:+12024781025",
+    "cuisine": "Cajun, Southern",
+    "fullAddressText": "Address Georgia Avenue–Petworth 3605 14th St NW, Washington, District of Columbia, USA",
+    "website": "theartemisdc.com",
+    "socialMediaHandle": "@theartemisdc"
+  },
+  {
+    "title": "Shady Gators",
+    "contactInfo": "tel:+15733656464",
+    "cuisine": "American, Cajun, Pizza American, Cajun, Pizza, Vegetarian options",
+    "fullAddressText": "Address 132 Sweet William Rd, Village of Four Seasons, Missouri, USA",
+    "website": "shadygators.com",
+    "socialMediaHandle": "@shadygators"
+  },
+  {
+    "title": "Cap't Loui",
+    "contactInfo": "tel:+16787408888",
+    "cuisine": "Seafood, Cajun, Creole Seafood, Cajun, Creole, Vegetarian options",
+    "fullAddressText": "Address 3330 Satellite Blvd Suite 4, Duluth, Georgia, USA",
+    "website": "captloui.com",
+    "socialMediaHandle": "@captlouiduluth"
+  },
+  {
+    "title": "Egan's Ballard Jam House",
+    "contactInfo": "tel:+12067891621",
+    "cuisine": "American, Cajun",
+    "fullAddressText": "Address 1707 NW Market St, Seattle, Washington, USA",
+    "website": "ballardjamhouse.com",
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Pappadeaux Seafood Kitchen, menu",
+    "contactInfo": "tel:+15124529363",
+    "cuisine": "Seafood, Cajun, American Seafood, Cajun, American, Creole, Vegetarian options",
+    "fullAddressText": "Address 6319 N Interstate Hwy 35, Austin, Texas, USA",
+    "website": "pappadeaux.com",
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Jazz a Louisiana Kitchen",
+    "contactInfo": "tel:+19133280003",
+    "cuisine": "Cajun, Creole, Seafood Cajun, Creole, Seafood, American, Southern",
+    "fullAddressText": "Address 1859 Village West Pkwy #102, Kansas City, Kansas, USA",
+    "website": "jazzkitchen.com",
+    "socialMediaHandle": "@jazzkck"
+  },
+  {
+    "title": "Swamp House Riverfront Grill",
+    "contactInfo": "tel:+13866688891",
+    "cuisine": "Seafood, American, Cajun Seafood, American, Cajun, Creole, Grill, Vegetarian options",
+    "fullAddressText": "Address 488 W Highbanks Rd, DeBary, Florida, USA",
+    "website": "swamphousegrill.com",
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Bayou Beer Garden",
+    "contactInfo": "tel:+15043029357",
+    "cuisine": "American, Cajun",
+    "fullAddressText": "Address 326 N Norman C Francis Parkway, New Orleans, Louisiana, USA",
+    "website": "bayoubeergarden.com",
+    "socialMediaHandle": "@bayoubeergarden"
+  },
+  {
+    "title": "Gumbo Mama",
+    "contactInfo": "tel:+12817400825",
+    "cuisine": "Creole, Cajun, Seafood",
+    "fullAddressText": "Address 4529 Old Spanish Trl, Houston, Texas, USA",
+    "website": null,
+    "socialMediaHandle": "@tina_gumbomama"
+  },
+  {
+    "title": "The Bucket Crab & Crawfish",
+    "contactInfo": "tel:+19099836688",
+    "cuisine": "Cajun, Creole, Seafood",
+    "fullAddressText": "Address 612 N Euclid Ave, Ontario, California, USA",
+    "website": "thebucketcrabncrawfish.com",
+    "socialMediaHandle": "@inlandempiredotcom"
+  },
+  {
+    "title": "Chasin' Tails: Seafood that Celebrates!",
+    "contactInfo": "tel:+15717779596",
+    "cuisine": "Seafood, Cajun, Creole Seafood, Cajun, Creole, Vegetarian options",
+    "fullAddressText": "Address 944 W Broad St, Arlington, Virginia, USA",
+    "website": "chasintailscrawfish.com",
+    "socialMediaHandle": "@chasintailsss"
+  },
+  {
+    "title": "Cajun Persuasion Seafood Market & Poboys",
+    "contactInfo": "tel:+15044554350",
+    "cuisine": "Seafood, Cajun, Creole",
+    "fullAddressText": "Address 2309 David Dr, Metairie, Louisiana, USA",
+    "website": "facebook.com",
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Hot N Juicy Crawfish",
+    "contactInfo": "tel:+12022999448",
+    "cuisine": "Seafood, Cajun, Creole Seafood, Cajun, Creole, Southern, Vegetarian options",
+    "fullAddressText": "Address Woodley Park 2651 Connecticut Ave NW, Washington, District of Columbia, USA",
+    "website": "hotnjuicycrawfish.com",
+    "socialMediaHandle": "@hotnjuicycrawfish"
+  },
+  {
+    "title": "88 Boiling",
+    "contactInfo": "tel:+17137898288",
+    "cuisine": "Seafood, Cajun, Creole Seafood, Cajun, Creole, Vegetarian options",
+    "fullAddressText": "Address 1910 Wilcrest Dr, Houston, Texas, USA",
+    "website": "88boilingcrawfishandseafoodhouston.drinkandfood.website",
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Shaking Seafood & Wings",
+    "contactInfo": "tel:+18592648888",
+    "cuisine": "Seafood, Cajun, Creole Seafood, Cajun, Creole, Vegetarian options",
+    "fullAddressText": "Address 3110 Mapleleaf Dr, Lexington, Kentucky, USA",
+    "website": "shakingseafoodlexington.com",
+    "socialMediaHandle": "@shakingseafoodand"
+  },
+  {
+    "title": "Crawfish Kings",
+    "contactInfo": "tel:+12813245464",
+    "cuisine": null,
+    "fullAddressText": "Address 21008 FM 2100",
+    "website": "crawfishkings.com",
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Krazy Kajun",
+    "contactInfo": "tel:+14098601844",
+    "cuisine": "Seafood, Cajun, Creole Seafood, Cajun, Creole, Fast food",
+    "fullAddressText": "Address 3015 Dowlen Rd, Beaumont, Texas, USA",
+    "website": "riny.top",
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Red Crab Juicy Seafood",
+    "contactInfo": "tel:+19842197925",
+    "cuisine": "Seafood, Cajun, Creole Seafood, Cajun, Creole, Vegetarian options",
+    "fullAddressText": "Address 4600 Durham-Chapel Hill Blvd Ste.29-30, Durham, North Carolina, USA",
+    "website": "redcrabseafood.com",
+    "socialMediaHandle": "@redcrabdurham"
+  },
+  {
+    "title": "Camellia Cafe",
+    "contactInfo": "tel:+19856496211",
+    "cuisine": "Cajun, American, Creole Cajun, American, Creole, Vegetarian options",
+    "fullAddressText": "Address 525 Gause Blvd W, Slidell, Louisiana, USA",
+    "website": "thecamelliacafe.com",
+    "socialMediaHandle": "@camelliacafe"
+  },
+  {
+    "title": "Curio",
+    "contactInfo": "tel:+15047174198",
+    "cuisine": "Creole, Southern, Cajun Creole, Southern, Cajun, American, New American, Vegetarian options",
+    "fullAddressText": "Address 301 Royal St, New Orleans, Louisiana, USA",
+    "website": "curionola.com",
+    "socialMediaHandle": "@the_curio_"
+  },
+  {
+    "title": "King Crab House",
+    "contactInfo": "tel:+18175489009",
+    "cuisine": "Seafood, Cajun, Creole",
+    "fullAddressText": "Address 2410 E Arkansas Ln #356, Arlington, Texas, USA",
+    "website": "kingcrabhousearlington.com",
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Oceanic Boil - Rego Park",
+    "contactInfo": "tel:+13478320123",
+    "cuisine": "Seafood, Cajun, Creole",
+    "fullAddressText": "Address 63rd Drive–Rego Park 96-18 Queens Blvd, New York City, New York, USA",
+    "website": "oceanicboil.com",
+    "socialMediaHandle": "@oceanic_boil"
+  },
+  {
+    "title": "LA Crawfish",
+    "contactInfo": "tel:+17134618808",
+    "cuisine": "Seafood, Vietnamese, Cajun Seafood, Vietnamese, Cajun, Creole, Vegetarian options",
+    "fullAddressText": "Address 1005 Blalock Rd, Houston, Texas, USA",
+    "website": "thelacrawfish.com",
+    "socialMediaHandle": "@thelacrawfish"
+  },
+  {
+    "title": "Remoulade",
+    "contactInfo": "tel:+15045230377",
+    "cuisine": "Cajun, Creole, Seafood Cajun, Creole, Seafood, American, New American, Vegetarian options",
+    "fullAddressText": "Address 309 Bourbon St, New Orleans, Louisiana, USA",
+    "website": "remoulade.com",
+    "socialMediaHandle": "@Remouladenola"
+  },
+  {
+    "title": "The Chimes East",
+    "contactInfo": "tel:+12252964981",
+    "cuisine": "Seafood, Cajun, Creole Seafood, Cajun, Creole, American, Fast food, Vegetarian options",
+    "fullAddressText": "Address 10870 Coursey Blvd #4019, Baton Rouge, Louisiana, USA",
+    "website": "thechimes.com",
+    "socialMediaHandle": "@thechimeseast"
+  },
+  {
+    "title": "LA Burgers & Daiquiris",
+    "contactInfo": "tel:+13465718401",
+    "cuisine": "Cajun, Creole, Fast food Cajun, Creole, Fast food, Sandwiches, Vegetarian options",
+    "fullAddressText": "Address 3755 N MacGregor Way, Houston, Texas, USA",
+    "website": null,
+    "socialMediaHandle": "@laburgersanddaiquiris"
+  },
+  {
+    "title": "Bourbon Street on the Beach Restaurant & Live Music Venue",
+    "contactInfo": "tel:+14436642896",
+    "cuisine": "Cajun, Seafood, Creole Cajun, Seafood, Creole, Steakhouses",
+    "fullAddressText": "Address 12601 Coastal Hwy, Ocean City, Maryland, USA",
+    "website": "bourbonstreetonthebeach.com",
+    "socialMediaHandle": "@bsotb_oc"
+  },
+  {
+    "title": "Louisiana Famous Fried Chicken",
+    "contactInfo": "tel:+13108382785",
+    "cuisine": "Fast food, Cajun, Creole",
+    "fullAddressText": "Address La Cienega/Jefferson 5818 Obama Blvd, Los Angeles, California, USA",
+    "website": "louisianafriedchickenhq.com",
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Asian Cajun & Sushi",
+    "contactInfo": "tel:+18608525881",
+    "cuisine": "Seafood, Cajun, Creole Seafood, Cajun, Creole, Vegetarian options",
+    "fullAddressText": "Address 220 Main St, Middletown, Connecticut, USA",
+    "website": "juicycajunseafoodct.com",
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Cajun Steamer Bar & Grill",
+    "contactInfo": "tel:+16157013432",
+    "cuisine": "Cajun, Creole, Seafood",
+    "fullAddressText": "Address 2108 Medical Center Pkwy G, Murfreesboro, Tennessee, USA",
+    "website": "cajunsteamer.com",
+    "socialMediaHandle": "@reel"
+  },
+  {
+    "title": "Juicy Tails Fayetteville",
+    "contactInfo": "tel:+14799354100",
+    "cuisine": "Seafood, Cajun, Creole Seafood, Cajun, Creole, American, Sandwiches, Vegetarian options",
+    "fullAddressText": "Address 745 E Joyce Blvd Ste 218 (2nd Floor, Fayetteville, Arkansas, USA",
+    "website": "juicytailsfayetteville.com",
+    "socialMediaHandle": "@juicytails"
+  },
+  {
+    "title": "The Cajun Cafe Delta Crawfish",
+    "contactInfo": "tel:+18705206420",
+    "cuisine": "Seafood, Cajun, Creole Seafood, Cajun, Creole, Vegetarian options",
+    "fullAddressText": "Address 3228 S Caraway Rd, Jonesboro, Arkansas, USA",
+    "website": "deltacrawfish.com",
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Red Hook Cajun Seafood & Bar (Wolfchase)",
+    "contactInfo": "tel:+19014435252",
+    "cuisine": "Seafood, Cajun, Creole",
+    "fullAddressText": "Address 2844 New Brunswick Rd, Memphis, Tennessee, USA",
+    "website": "facebook.com",
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Shaking Crab (Clifton)",
+    "contactInfo": "tel:+18622259996",
+    "cuisine": "Seafood, Cajun, Creole Seafood, Cajun, Creole, Vegetarian options",
+    "fullAddressText": "Address 1168 Broad St, Clifton, New Jersey, USA",
+    "website": "shakingcrab.com",
+    "socialMediaHandle": "@shakingcrab"
+  },
+  {
+    "title": "Holy Crab Cajun Seafood",
+    "contactInfo": "tel:+19149483888",
+    "cuisine": "Seafood, Cajun, Creole",
+    "fullAddressText": "Address 32 Mamaroneck Ave, White Plains, New York, USA",
+    "website": "holycrabny.com",
+    "socialMediaHandle": "@holycrabboils"
+  },
+  {
+    "title": "That Cajun Place",
+    "contactInfo": "tel:+14325273305",
+    "cuisine": "American, Cajun, Creole American, Cajun, Creole, Seafood",
+    "fullAddressText": "Address 805 N Wildcat Dr, Wink, Texas, USA",
+    "website": "facebook.com",
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Popeyes Louisiana Kitchen",
+    "contactInfo": "tel:+12762288676",
+    "cuisine": "Fast food, Cajun, Seafood",
+    "fullAddressText": "Address 1025 Peppers Ferry Rd, Wytheville, Virginia, USA",
+    "website": null,
+    "socialMediaHandle": "@popeyeslouisianakitchen"
+  },
+  {
+    "title": "Bistreaux",
+    "contactInfo": "tel:+15046486153",
+    "cuisine": "Cajun, American, Creole Cajun, American, Creole, Southern, Vegetarian options",
+    "fullAddressText": "Address 1001 Toulouse St, New Orleans, Louisiana, USA",
+    "website": "maisondupuy.com",
+    "socialMediaHandle": "@phobistreauxotg"
+  },
+  {
+    "title": "Rocks Landing Sports Bar & Grille",
+    "contactInfo": "tel:+14128755809",
+    "cuisine": "American, Cajun, Creole",
+    "fullAddressText": "Address 506 Chartiers Ave, McKees Rocks, Pennsylvania, USA",
+    "website": "rocklanding.com",
+    "socialMediaHandle": "@rocks_landing_bar_grille"
+  },
+  {
+    "title": "The Boil Cajun Seafood",
+    "contactInfo": "tel:+17736986011",
+    "cuisine": "Seafood, Cajun, Creole",
+    "fullAddressText": "Address Division 1805 W Division St, Chicago, Illinois, USA",
+    "website": "theboilchicago.com",
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Nick's Boathouse",
+    "contactInfo": "tel:+18509128775",
+    "cuisine": "Seafood, Cajun, Creole Seafood, Cajun, Creole, Fast food, Vegetarian options",
+    "fullAddressText": "Address 455 W Main St, Pensacola, Florida, USA",
+    "website": null,
+    "socialMediaHandle": "@nicksboathouse"
+  },
+  {
+    "title": "The Rockin' Crab & Boiling Pot",
+    "contactInfo": "tel:+15034777982",
+    "cuisine": "Seafood, Cajun, Creole Seafood, Cajun, Creole, Taiwanese",
+    "fullAddressText": "Address 2850 SE 82nd Ave, Portland, Oregon, USA",
+    "website": "rockincrab.co",
+    "socialMediaHandle": "@rockincrabpdx"
+  },
+  {
+    "title": "Coosh's Bayou Rouge",
+    "contactInfo": "tel:+18508944110",
+    "cuisine": "Cajun, American",
+    "fullAddressText": "Address 2910 Kerry Forest Pkwy, Tallahassee, Florida, USA, 32312",
+    "website": "cooshs.com",
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Wings n more government",
+    "contactInfo": "tel:+12254211911",
+    "cuisine": "Fast food, Cajun, Creole",
+    "fullAddressText": "Address 4965 Government St, Baton Rouge, Louisiana, USA",
+    "website": "wingsnmoregovernment.com",
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Crafty Crab",
+    "contactInfo": "tel:+14107018883",
+    "cuisine": "Cajun, Seafood, Creole",
+    "fullAddressText": "Address 8606 Liberty Rd, Randallstown, Maryland, USA",
+    "website": "craftycrabofrandallstown.com",
+    "socialMediaHandle": "@craftycrabrandallstown"
+  },
+  {
+    "title": "Shuck'n Jive",
+    "contactInfo": "tel:+19723865151",
+    "cuisine": "Cajun, Seafood, Creole Cajun, Seafood, Creole, American, Vegetarian options",
+    "fullAddressText": "Address 5000 Belt Line Rd # 530, Addison, Texas, USA",
+    "website": "memphis-dallas.com",
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Popeyes Louisiana Kitchen",
+    "contactInfo": "tel:+13173241205",
+    "cuisine": "Fast food, Cajun, Seafood",
+    "fullAddressText": "Address 5020 E County Line Rd, Indianapolis, Indiana, USA",
+    "website": "popeyes.com",
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Pappy's Stowaway Cafe",
+    "contactInfo": "tel:+19854860011",
+    "cuisine": "Cajun, Creole, Southern Cajun, Creole, Southern, Seafood",
+    "fullAddressText": "Address 365 W Pine St, Ponchatoula, Louisiana, USA",
+    "website": "facebook.com",
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Popeyes Louisiana Kitchen",
+    "contactInfo": "tel:+19182513603",
+    "cuisine": "Fast food, Cajun, Seafood",
+    "fullAddressText": "Address 1450 E Kenosha St, Broken Arrow, Oklahoma, USA",
+    "website": null,
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Florence Crab House",
+    "contactInfo": "tel:+18544004682",
+    "cuisine": "Seafood, Cajun, Creole",
+    "fullAddressText": "Address 43 by mall, 2701 David H McLeod Blvd Entrance, Florence, South Carolina, USA",
+    "website": "florencecrabhouse.com",
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Star Crab",
+    "contactInfo": "tel:+19093208696",
+    "cuisine": "Seafood, Cajun, Creole",
+    "fullAddressText": "Address 9860 Sierra Ave., Fontana, California, USA",
+    "website": null,
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Seafood Craze",
+    "contactInfo": "tel:+12793451242",
+    "cuisine": "Seafood, Cajun, Creole",
+    "fullAddressText": "Address 5825 Madison Ave #2, Sacramento, California, USA",
+    "website": "seafoodcrazellc.com",
+    "socialMediaHandle": "@SeafoodCraze.LLC"
+  },
+  {
+    "title": "Bobby Loc's Seafood and Smokes",
+    "contactInfo": "tel:+15012293505",
+    "cuisine": "Seafood, Cajun, Creole",
+    "fullAddressText": "Address 303 N Main St, Benton, Arkansas, USA",
+    "website": null,
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Exotik Eatz",
+    "contactInfo": "tel:+19793834114",
+    "cuisine": "Cajun",
+    "fullAddressText": "Address 308 E Martin Luther King Jr St, College Station, Texas, USA",
+    "website": null,
+    "socialMediaHandle": "@_exotic_eatz"
+  },
+  {
+    "title": "Page’n Cajun",
+    "contactInfo": "tel:+19368753561",
+    "cuisine": "Cajun, Creole, Seafood",
+    "fullAddressText": "Address 6180 Ted Trout Dr, Lufkin, Texas, USA",
+    "website": null,
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Pickled Okra",
+    "contactInfo": "tel:+16628438510",
+    "cuisine": "American, Cajun, Creole",
+    "fullAddressText": "Address 201 S Sharpe Ave, Cleveland, Mississippi, USA, 38732-3363",
+    "website": "facebook.com",
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Slauson Deli",
+    "contactInfo": "tel:+13232918800",
+    "cuisine": "American, Cajun, Creole American, Cajun, Creole, Sandwiches",
+    "fullAddressText": "Address 4454 W Slauson Ave, Los Angeles, California, USA, 90043",
+    "website": null,
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Popeyes Louisiana Kitchen",
+    "contactInfo": "tel:+15122511831",
+    "cuisine": "Cajun, Fast food, Seafood",
+    "fullAddressText": "Address 1547 FM 685, Pflugerville, Texas, USA",
+    "website": null,
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Gumbo Express",
+    "contactInfo": null,
+    "cuisine": "Cajun",
+    "fullAddressText": "Address 500 Baybrook Mall Suite 014, Friendswood, Texas, USA",
+    "website": null,
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Juicy Crab Shack",
+    "contactInfo": "tel:+15733365886",
+    "cuisine": "Cajun, Creole, Seafood",
+    "fullAddressText": "Address 743 Missouri Ave Ste 1, Saint Robert, Missouri, USA",
+    "website": "juicycrabshack.com",
+    "socialMediaHandle": null
+  },
+  {
+    "title": "All Saints Grill",
+    "contactInfo": "tel:+19374022741",
+    "cuisine": "Cajun, Creole, Fast food",
+    "fullAddressText": "Address 101 S Fountain Ave, Springfield, Ohio, USA",
+    "website": "allsaintsgrill.com",
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Tom's Louisiana Kitchen",
+    "contactInfo": "tel:+15613658219",
+    "cuisine": "Cajun, Creole, Seafood",
+    "fullAddressText": "Address 2901 NW Commerce Park Dr, Boynton Beach, Florida, USA",
+    "website": "facebook.com",
+    "socialMediaHandle": "@tomslouisianakitchen"
+  },
+  {
+    "title": "Ignatius Reilly's Gourmet Food Truck",
+    "contactInfo": "tel:+12252295274",
+    "cuisine": "Cajun, French, Italian",
+    "fullAddressText": "Address Location Varies, Baton Rouge, Louisiana, USA",
+    "website": null,
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Voodoo Seafood & Lounge",
+    "contactInfo": "tel:+13463183820",
+    "cuisine": "Cajun, Creole, Seafood",
+    "fullAddressText": "Address 2712 Eldridge Pkwy Suite 101, Houston, Texas, USA",
+    "website": null,
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Earth Wind & Flour",
+    "contactInfo": "tel:+14049075047",
+    "cuisine": "Cajun, Creole, Southern",
+    "fullAddressText": "Address 2670 E College Ave, Decatur, Georgia, USA",
+    "website": "ewflour.com",
+    "socialMediaHandle": "@ewflour"
+  },
+  {
+    "title": "Hook & Reel",
+    "contactInfo": "tel:+17547523888",
+    "cuisine": "Seafood, Cajun, Creole",
+    "fullAddressText": "Address 3887 W Hillsboro Blvd, Deerfield Beach, Florida, USA, 33442",
+    "website": "hookreel.com",
+    "socialMediaHandle": "@hookandreel.usa"
+  },
+  {
+    "title": "The Boil Daddy - West LA",
+    "contactInfo": "tel:+13104740007",
+    "cuisine": "Cajun",
+    "fullAddressText": "Address 10928 W Pico Blvd, Los Angeles, California, USA",
+    "website": "theboildaddy.com",
+    "socialMediaHandle": "@theboildaddy"
+  },
+  {
+    "title": "Matt & Memere's",
+    "contactInfo": "tel:+19712677554",
+    "cuisine": "Cajun, Creole, Southern Cajun, Creole, Southern, Seafood",
+    "fullAddressText": "Address 3582 SE Powell Blvd, Portland, Oregon, USA, 97202-1878",
+    "website": "mattandmemeres.com",
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Whitey's Fishing Hole Tavern",
+    "contactInfo": "tel:+15044624669",
+    "cuisine": "Cajun, Creole, New American Cajun, Creole, New American, Vegetarian options",
+    "fullAddressText": "Address 1026 Avenue A, Marrero, Louisiana, USA",
+    "website": "whiteysfishingholetavern.com",
+    "socialMediaHandle": "@whiteysfishinghole"
+  },
+  {
+    "title": "CBC Cajun Seafood",
+    "contactInfo": "tel:+13238151749",
+    "cuisine": "Cajun, Seafood, Creole",
+    "fullAddressText": "Address 4050 S Crenshaw Blvd, Los Angeles, California, USA",
+    "website": null,
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Voodoo Pit BBQ",
+    "contactInfo": "tel:+18003176811",
+    "cuisine": "Cajun, Creole, Barbecue",
+    "fullAddressText": "Address Los Angeles, California, USA",
+    "website": null,
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Blackened Dragon",
+    "contactInfo": null,
+    "cuisine": "Cajun, Creole",
+    "fullAddressText": "Address 350 sw industrial way, Bend, Oregon, USA, 78701",
+    "website": null,
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Bobo's Crab Shack (Fordham)",
+    "contactInfo": "tel:+19178010833",
+    "cuisine": "Seafood, Cajun, Creole",
+    "fullAddressText": "Address Fordham Road 2450 Grand Concourse, Yonkers, New York, USA",
+    "website": "boboscrabshack.com",
+    "socialMediaHandle": "@boboscrabshackfordham"
+  },
+  {
+    "title": "Gumbo Lov Soulful Cajun Food",
+    "contactInfo": "tel:+13185840260",
+    "cuisine": "American, Cajun, Creole American, Cajun, Creole, Southern, Gluten-free, Seafood",
+    "fullAddressText": "Address 2424 highway 6 & 50, Grand Junction, Colorado, USA",
+    "website": "gumbolov.com",
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Krispy Krunchy Chicken",
+    "contactInfo": "tel:+18562457921",
+    "cuisine": "Cajun, Creole, Seafood",
+    "fullAddressText": "Address 1401 Little Gloucester Rd, Washington Township, New Jersey, USA",
+    "website": "krispykrunchy.com",
+    "socialMediaHandle": "@krispykrunchychicken"
+  },
+  {
+    "title": "Signature Kafe",
+    "contactInfo": "tel:+17138070431",
+    "cuisine": "Southern, Cajun, Creole",
+    "fullAddressText": "Address 3722 Main St, Houston, Texas, USA",
+    "website": null,
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Bishop's Bistro, menu",
+    "contactInfo": "tel:+17325490759",
+    "cuisine": "Southern, Cajun, Creole Southern, Cajun, Creole, French",
+    "fullAddressText": "Address 7 New St, Metuchen, New Jersey, USA, 08840",
+    "website": null,
+    "socialMediaHandle": "@bishopsbistro"
+  },
+  {
+    "title": "Cajun Crawlers of Stonewall",
+    "contactInfo": "tel:+13187754028",
+    "cuisine": "Cajun, Creole",
+    "fullAddressText": "Address 5015 Stonewall-Frierson Rd, Stonewall, Louisiana, USA",
+    "website": null,
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Gabby's Bayou Bar",
+    "contactInfo": "tel:+13377545005",
+    "cuisine": "Cajun",
+    "fullAddressText": "Address 1030-1034 Coteau Rodaire Hwy, Arnaudville, Louisiana, USA",
+    "website": null,
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Smokin' Crab",
+    "contactInfo": "tel:+17244394371",
+    "cuisine": "Cajun, Creole",
+    "fullAddressText": "Address 367 McClellandtown Rd., Uniontown, Pennsylvania, USA, 15401",
+    "website": null,
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Cajun Rice Bowl",
+    "contactInfo": "tel:+17693552253",
+    "cuisine": "American, Cajun, Creole",
+    "fullAddressText": "Address 381 John R Junkin Dr, Natchez, Mississippi, USA",
+    "website": null,
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Big Easy Cajun",
+    "contactInfo": "tel:+17812720745",
+    "cuisine": "Cajun",
+    "fullAddressText": "Address 75 Middlesex Turnpike #2111, Burlington, Massachusetts, USA",
+    "website": "simon.com",
+    "socialMediaHandle": "@simonpropertygroup"
+  },
+  {
+    "title": "Vegan in the Hood LLC",
+    "contactInfo": "tel:+17346440213",
+    "cuisine": "American, Cajun, Creole American, Cajun, Creole, Mexican, Vegetarian, Barbecue, Fast food, Healthy food, Seafood, Street food, Burgers, Dessert",
+    "fullAddressText": "Address 6500 Woodward Ave, Detroit, Michigan, USA",
+    "website": "veganinthehoodllc.com",
+    "socialMediaHandle": "@veganinthehoodllc"
+  },
+  {
+    "title": "Sid's Place",
+    "contactInfo": "tel:+14326522702",
+    "cuisine": "Cajun, Creole, Fast food Cajun, Creole, Fast food, Seafood",
+    "fullAddressText": "Address 2701 John Ben Shepperd Pkwy, Odessa, Texas, USA",
+    "website": "go2sids.com",
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Gumbo's of Westlake",
+    "contactInfo": "tel:+15123284446",
+    "cuisine": "Cajun, Seafood",
+    "fullAddressText": "Address 3600 N Capital Of Texas Hwy, Austin, Texas, USA, 78746",
+    "website": null,
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Darwells Happiness Cafe",
+    "contactInfo": "tel:+16018323376",
+    "cuisine": "Cajun, Creole, Seafood Cajun, Creole, Seafood, Dessert",
+    "fullAddressText": "Address 184 Golf Course Rd, Magee, Mississippi, USA, 39114",
+    "website": null,
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Marty G's Cajun Eats",
+    "contactInfo": "tel:+13373190616",
+    "cuisine": "Cajun",
+    "fullAddressText": "Address 6000 Briarwood Ave J106, Midland, Texas, USA",
+    "website": "martygscajuneats.com",
+    "socialMediaHandle": "@martygs_cajun_eats"
+  },
+  {
+    "title": "Cafe Rian Cajun Cafe",
+    "contactInfo": "tel:+12814468800",
+    "cuisine": "Cajun, Seafood",
+    "fullAddressText": "Address 8790 FM 1960 Bypass Rd W, Houston, Texas, USA, 77338",
+    "website": "caferian.com",
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Cajupinos food truck",
+    "contactInfo": "tel:+13379094222",
+    "cuisine": "Cajun, Filipino",
+    "fullAddressText": "Address 1703 Soybean St, Sulphur, Louisiana, USA",
+    "website": null,
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Cajun Town Express",
+    "contactInfo": "tel:+17133702002",
+    "cuisine": "Cajun, Creole, Fast food Cajun, Creole, Fast food, Seafood",
+    "fullAddressText": "Address 14104 Hempstead Rd Unit A, Houston, Texas, USA",
+    "website": null,
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Heads or Tails",
+    "contactInfo": "tel:+12818375344",
+    "cuisine": "Seafood, Cajun, Creole",
+    "fullAddressText": "Address 3517 Garth Rd, Baytown, Texas, USA, 77521",
+    "website": null,
+    "socialMediaHandle": "@heads.or.tails.hats"
+  },
+  {
+    "title": "La Saveur Cajun",
+    "contactInfo": "tel:+19703523491",
+    "cuisine": "Cajun, Creole",
+    "fullAddressText": "Address 5415 W 11th St, Greeley, Colorado, USA, 80634",
+    "website": null,
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Sauciers Cajun Boudin + Specialty Meats",
+    "contactInfo": "tel:+12813300773",
+    "cuisine": "Cajun, Creole",
+    "fullAddressText": "Address 2600 Wilson Rd, Humble, Texas, USA, 77396",
+    "website": null,
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Cajun Creole Catering",
+    "contactInfo": "tel:+19723225858",
+    "cuisine": "Cajun, Creole",
+    "fullAddressText": "Address 1209 Rio Vista Dr, DeSoto, Texas, USA",
+    "website": null,
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Rollin' Cajun Crawfish",
+    "contactInfo": "tel:+19793736727",
+    "cuisine": "Cajun, Creole",
+    "fullAddressText": "Address 3750 N Highway 146, Baytown, Texas, USA, 77523",
+    "website": null,
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Cafe N'Orleans",
+    "contactInfo": "tel:+14232455400",
+    "cuisine": "Cajun, Creole",
+    "fullAddressText": "Address 161 E Main St, Kingsport, Tennessee, USA, 37660",
+    "website": null,
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Cypress Cafe",
+    "contactInfo": "tel:+19852415136",
+    "cuisine": "American, Cajun, Creole American, Cajun, Creole, Mexican",
+    "fullAddressText": "Address 437 N Columbia St, Bogalusa, Louisiana, USA",
+    "website": null,
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Bayou Brothers Causeway",
+    "contactInfo": "tel:+15048346474",
+    "cuisine": "Seafood, Cajun, Creole Seafood, Cajun, Creole, Sandwiches",
+    "fullAddressText": "Address 1300 N Causeway Blvd, Metairie, Louisiana, USA, 70001",
+    "website": null,
+    "socialMediaHandle": "@bayoubrothersmeats"
+  },
+  {
+    "title": "Camellia Cafe",
+    "contactInfo": "tel:+19852497725",
+    "cuisine": "Cajun, Creole",
+    "fullAddressText": "Address 69451 Highway 59, Abita Springs, Louisiana, USA, 70471",
+    "website": "thecamelliacafe.com",
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Texaco Corner Deli",
+    "contactInfo": "tel:+19858631771",
+    "cuisine": "American, Cajun, Creole",
+    "fullAddressText": "Address 64079 Highway 11, Pearl River, Louisiana, USA, 70452",
+    "website": null,
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Jazmo's Bodega",
+    "contactInfo": "tel:+17692351955",
+    "cuisine": "American, Cajun",
+    "fullAddressText": "Address 107 E Front St, Hattiesburg, Mississippi, USA",
+    "website": null,
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Magnolia Terrace",
+    "contactInfo": null,
+    "cuisine": "Cajun, Creole",
+    "fullAddressText": "Address 200 Epcot Center Dr, Orlando, Florida, USA, 32821",
+    "website": null,
+    "socialMediaHandle": "@magnoliaterrace"
+  },
+  {
+    "title": "H&C Cajun Seafood and Chinese Food",
+    "contactInfo": null,
+    "cuisine": "Cajun, Creole, Seafood",
+    "fullAddressText": "Address 1441 E Fletcher Ave Ste 125, Tampa, Florida, USA, 33612",
+    "website": null,
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Krispy Krunchy Chicken",
+    "contactInfo": "tel:+13215672032",
+    "cuisine": "Cajun, Creole",
+    "fullAddressText": "Address 1390 Garden St, Titusville, Florida, USA, 32796",
+    "website": "krispykrunchy.com",
+    "socialMediaHandle": "@krispykrunchychicken"
+  },
+  {
+    "title": "Malones Deli and Catering",
+    "contactInfo": "tel:+17138271119",
+    "cuisine": "Delis, Cajun, Creole Delis, Cajun, Creole, Sandwiches",
+    "fullAddressText": "Address 10497 Town and Country Way #202, Houston, Texas, USA",
+    "website": null,
+    "socialMediaHandle": null
+  },
+  {
+    "title": "R&B Crawfish Lounge",
+    "contactInfo": "tel:+18585608889",
+    "cuisine": "Cajun, Creole, Southern",
+    "fullAddressText": "Address 4690 Convoy Street, Suite 102, San Diego, California, USA, 92111",
+    "website": null,
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Corey's Fried Turkeys",
+    "contactInfo": "tel:+17067263074",
+    "cuisine": "Cajun, Creole",
+    "fullAddressText": "Address Grovetown, Georgia, USA",
+    "website": "coreyfriedturkeys.wixsite.com",
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Duke's Place",
+    "contactInfo": "tel:+15033173880",
+    "cuisine": "Cajun, Creole",
+    "fullAddressText": "Address Kansas City, Kansas, USA",
+    "website": null,
+    "socialMediaHandle": "@dukesplacefood"
+  },
+  {
+    "title": "Mile High Cajun",
+    "contactInfo": null,
+    "cuisine": "Cajun",
+    "fullAddressText": "Address Location Varies, Denver, Colorado, USA, 80203",
+    "website": "milehighcajun.com",
+    "socialMediaHandle": "@milehighcajun"
+  },
+  {
+    "title": "Taste of the South",
+    "contactInfo": "tel:+12199327080",
+    "cuisine": "Cajun, Southern, Creole",
+    "fullAddressText": "Address 7346 N Columbia Ave, Hammond, Indiana, USA, 46324",
+    "website": null,
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Hook & Reel",
+    "contactInfo": null,
+    "cuisine": "Cajun, Creole",
+    "fullAddressText": "Address 151 Vfw Pkwy, Revere, Massachusetts, USA, 02151",
+    "website": null,
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Karen's Cafe",
+    "contactInfo": "tel:+14097531800",
+    "cuisine": "Cajun, Creole, Barbecue Cajun, Creole, Barbecue, Seafood",
+    "fullAddressText": "Address 15985 Highway 105, Pinewood Estates, Texas, USA, 77659",
+    "website": null,
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Krawfish Krazee & More",
+    "contactInfo": "tel:+18329899455",
+    "cuisine": "Cajun, Creole, Seafood",
+    "fullAddressText": "Address 6556 Peerless St, Houston, Texas, USA",
+    "website": null,
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Tutts Cajun Cravings",
+    "contactInfo": "tel:+13375857295",
+    "cuisine": "Cajun",
+    "fullAddressText": "Address 17476 Highway 190, Port Barre, Louisiana, USA, 70577",
+    "website": null,
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Louisiana Seafood",
+    "contactInfo": "tel:+12014617080",
+    "cuisine": "Cajun, Creole, Seafood",
+    "fullAddressText": "Address 210 Main St, Fort Lee, New Jersey, USA, 07024",
+    "website": null,
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Happy Land",
+    "contactInfo": null,
+    "cuisine": "Cajun, Creole",
+    "fullAddressText": "Address 278965 lljjjdmwpggjjj, Bossier City, Louisiana, USA, 71111",
+    "website": null,
+    "socialMediaHandle": "@happylandniko"
+  },
+  {
+    "title": "Zydecos Creole Flavor",
+    "contactInfo": "tel:+15128105532",
+    "cuisine": "Cajun, Creole",
+    "fullAddressText": "Address Corner Of Lamar & Kramer, Austin, Texas, USA, 78758",
+    "website": null,
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Mjs Finest Foods",
+    "contactInfo": "tel:+17349618102",
+    "cuisine": "Cajun, Creole, Southern",
+    "fullAddressText": "Address 97 Spring St, Ypsilanti, Michigan, USA, 48197",
+    "website": null,
+    "socialMediaHandle": "@mjsfinestfoods"
+  },
+  {
+    "title": "EJ's Pizzeria & More",
+    "contactInfo": null,
+    "cuisine": "American, Cajun, Creole American, Cajun, Creole, Fast food",
+    "fullAddressText": "Address 2212 Union Rd, Ste 455, Gastonia, North Carolina, USA, 28054",
+    "website": null,
+    "socialMediaHandle": null
+  },
+  {
+    "title": "The Island Clubhouse Bar & Grill",
+    "contactInfo": "tel:+12256850808",
+    "cuisine": "Cajun, Creole",
+    "fullAddressText": "Address 23650 Myrtle Grove Rd, Plaquemine, Louisiana, USA, 70764",
+    "website": null,
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Etouffee's Catering",
+    "contactInfo": "tel:+16026929260",
+    "cuisine": "Cajun, Creole",
+    "fullAddressText": "Address 102B W Hiram St, Atlanta, Texas, USA, 75551",
+    "website": null,
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Tye's Cuisine",
+    "contactInfo": "tel:+14079561823",
+    "cuisine": "Cajun, Creole, Southern Cajun, Creole, Southern, Seafood",
+    "fullAddressText": "Address 4700 Millenia Blvd Ste 175, Orlando, Florida, USA, 32839",
+    "website": null,
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Step Inn Cafe",
+    "contactInfo": "tel:+13184161358",
+    "cuisine": "American, Cajun, Creole American, Cajun, Creole, Southern",
+    "fullAddressText": "Address 612 Main Street, Laconia, New Hampshire, USA, 03246",
+    "website": null,
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Bojangles' Famous Chicken 'n Biscuits",
+    "contactInfo": "tel:+18436659872",
+    "cuisine": "Cajun",
+    "fullAddressText": "Address 2003 W Lucas St, Florence, South Carolina, USA",
+    "website": "bojangles.com",
+    "socialMediaHandle": "@bojangles"
+  },
+  {
+    "title": "Red Crawfish",
+    "contactInfo": "tel:+18174592008",
+    "cuisine": "Cajun, Creole",
+    "fullAddressText": "Address 2442 S Collins St Ste 100, Arlington, Texas, USA, 76014",
+    "website": null,
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Furlongs",
+    "contactInfo": "tel:+15023279299",
+    "cuisine": "Cajun, Southern",
+    "fullAddressText": "Address 9601 Shelbyville Road, Louisville, Kentucky, USA, 40223",
+    "website": "furlongs.com",
+    "socialMediaHandle": "@jfurlong6"
+  },
+  {
+    "title": "Floyds Cajun Seafood",
+    "contactInfo": "tel:+12815806500",
+    "cuisine": "Seafood, Cajun",
+    "fullAddressText": "Address 6013 FM 1960 Rd W, Houston, Texas, USA, 77069",
+    "website": null,
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Gumbo Joe's & The Home Brews",
+    "contactInfo": null,
+    "cuisine": "American, Cajun, Creole American, Cajun, Creole, New American, Southern",
+    "fullAddressText": "Address Pop up, Birmingham, Alabama, USA, 35205",
+    "website": null,
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Crawfish City",
+    "contactInfo": "tel:+13348042073",
+    "cuisine": "Cajun, Creole, Seafood",
+    "fullAddressText": "Address 324 Snowden Dr, Andalusia, Alabama, USA, 36420",
+    "website": null,
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Rosie Jos",
+    "contactInfo": "tel:+13184428245",
+    "cuisine": "Cajun, Creole, Seafood",
+    "fullAddressText": "Address 5828 Jackson St, Alexandria, Louisiana, USA, 71303",
+    "website": null,
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Da Swamp Shak",
+    "contactInfo": "tel:+12818602615",
+    "cuisine": "Cajun, Creole",
+    "fullAddressText": "Address 214 Sheldon, Channelview, Texas, USA, 77530",
+    "website": null,
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Réveillon",
+    "contactInfo": "tel:+19857780490",
+    "cuisine": "Cajun, Creole",
+    "fullAddressText": "Address 1645 N Causeway Blvd, Fleur De Lis, Mandeville, Louisiana, USA, 70471",
+    "website": null,
+    "socialMediaHandle": "@reveillon"
+  },
+  {
+    "title": "Briars",
+    "contactInfo": "tel:+16016530017",
+    "cuisine": "Cajun, Seafood",
+    "fullAddressText": "Address 130-b John R Junkin dr, Natchez, Mississippi, USA, 39120",
+    "website": null,
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Cajun Corner",
+    "contactInfo": "tel:+19312961297",
+    "cuisine": "Cajun, Creole, Barbecue",
+    "fullAddressText": "Address 109, Waverly Ave, Waverly, Tennessee, USA, 109",
+    "website": "exxonmobil.com",
+    "socialMediaHandle": "@exxonmobil"
+  },
+  {
+    "title": "World Wide Foods Federation",
+    "contactInfo": "tel:+13174850465",
+    "cuisine": "Cajun, Creole, Barbecue Cajun, Creole, Barbecue, Fast food",
+    "fullAddressText": "Address 218 S Main St, Fortville, Indiana, USA, 46040-1513",
+    "website": "worldwidefoodsfederation.com",
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Roux",
+    "contactInfo": "tel:+15032851200",
+    "cuisine": "Cajun, Southern, Seafood",
+    "fullAddressText": "Address 1700 N Killingsworth St, Portland, Oregon, USA, 97217",
+    "website": null,
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Tee Mimis Creole Gourmet Pies",
+    "contactInfo": "tel:+15047102911",
+    "cuisine": "Cajun, Dessert",
+    "fullAddressText": "Address 632 Franklin Ave, Gretna, Louisiana, USA, 70053",
+    "website": null,
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Da Cajun Kitchen",
+    "contactInfo": "tel:+17706426400",
+    "cuisine": "Cajun, Fast food",
+    "fullAddressText": "Address 659 Atlanta Street, Roswell, Georgia, USA, 30075",
+    "website": null,
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Mr Willie's Chicken & Fish",
+    "contactInfo": "tel:+17026320168",
+    "cuisine": "Southern, Cajun, Seafood",
+    "fullAddressText": "Address 3330 Losee Rd, North Las Vegas, Nevada, USA",
+    "website": "mrwillys.blogspot.com",
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Rotagilla Creole Cafe",
+    "contactInfo": "tel:+16789371698",
+    "cuisine": "Cajun",
+    "fullAddressText": "Address 2327 Main St, Tucker, Georgia, USA, 30084",
+    "website": null,
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Ca Crest Bon",
+    "contactInfo": "tel:+12079222893",
+    "cuisine": "Cajun, Creole",
+    "fullAddressText": "Address 1492 State St, Veazie, Maine, USA, 04401",
+    "website": null,
+    "socialMediaHandle": null
+  },
+  {
+    "title": "AAA Crawfish And Seafood",
+    "contactInfo": "tel:+13183925050",
+    "cuisine": "Cajun, Creole, Seafood",
+    "fullAddressText": "Address 1019 8th St, Colfax, Louisiana, USA, 71417",
+    "website": null,
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Duval Street Grill",
+    "contactInfo": null,
+    "cuisine": "Cajun, Creole, Barbecue",
+    "fullAddressText": "Address 4545 E Bougainvillea Ave, Tampa, Florida, USA",
+    "website": "adventureisland.com",
+    "socialMediaHandle": "@adventureislandtampa"
+  },
+  {
+    "title": "Blue Bayou Inn Restaurant",
+    "contactInfo": "tel:+17155432537",
+    "cuisine": null,
+    "fullAddressText": "Address 288 Hwy 51, 54545",
+    "website": null,
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Eat My Catfish",
+    "contactInfo": "tel:+15016270677",
+    "cuisine": "Cajun, Southern, Seafood",
+    "fullAddressText": "Address 1347 Albert Pike Rd, Little Rock, Arkansas, USA",
+    "website": "eatmycatfish.com",
+    "socialMediaHandle": "@eatmycatfishnwa"
+  },
+  {
+    "title": "Cajun and Grill",
+    "contactInfo": "tel:+16505780120",
+    "cuisine": "Cajun, Creole",
+    "fullAddressText": "Address 44 Hillsdale Mall, San Mateo, California, USA, 94403",
+    "website": null,
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Smashin’ Crab North Nashville",
+    "contactInfo": null,
+    "cuisine": "Cajun, Creole, Seafood",
+    "fullAddressText": "Address 614 18th Ave N, Nashville, Tennessee, USA, 37203",
+    "website": null,
+    "socialMediaHandle": null
+  },
+  {
+    "title": "New Orleans Chefs of Colorado",
+    "contactInfo": "tel:+15046692456",
+    "cuisine": "Cajun, Creole",
+    "fullAddressText": "Address 338 Main St, Times Collaborative, Lyons, Colorado, USA, 80503",
+    "website": "504ncoc.com",
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Kissed By Kha",
+    "contactInfo": "tel:+18329422357",
+    "cuisine": "Cajun, Creole",
+    "fullAddressText": "Address 6501 Chimney Rock Rd, Houston, Texas, USA, 77081",
+    "website": "kissed-by-kha.square.site",
+    "socialMediaHandle": null
+  },
+  {
+    "title": "The Rollin' Kitchen",
+    "contactInfo": "tel:+17133602002",
+    "cuisine": "Cajun",
+    "fullAddressText": "Address Location Varies, Houston, Texas, USA",
+    "website": "facebook.com",
+    "socialMediaHandle": null
+  },
+  {
+    "title": "M & N Louisina Cajun Foods",
+    "contactInfo": "tel:+18437499712",
+    "cuisine": "Cajun",
+    "fullAddressText": "Address 411 Corner Sq Plaza, Moncks Corner, South Carolina, USA, 29461",
+    "website": null,
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Smokin Brothas",
+    "contactInfo": "tel:+14099602199",
+    "cuisine": "Cajun, Creole, Barbecue",
+    "fullAddressText": "Address Houston, Texas, USA",
+    "website": null,
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Aunt Leni's Cafe & Market",
+    "contactInfo": "tel:+15043012805",
+    "cuisine": "Cajun, Pizza",
+    "fullAddressText": "Address 323 Verret St, New Orleans, Louisiana, USA, 70114",
+    "website": null,
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Bourbon Street Cafe",
+    "contactInfo": "tel:+18656377537",
+    "cuisine": "Cajun",
+    "fullAddressText": "Address 1908 Schofield St, Knoxville, Tennessee, USA, 37921",
+    "website": null,
+    "socialMediaHandle": null
+  },
+  {
+    "title": "The Cajun Catch",
+    "contactInfo": "tel:+17073835303",
+    "cuisine": "Cajun, Creole, Seafood",
+    "fullAddressText": "Address Oakland, California, USA",
+    "website": null,
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Southpaw Grill",
+    "contactInfo": "tel:+18508983448",
+    "cuisine": "Cajun, Creole",
+    "fullAddressText": "Address 6705 Pine Forest Rd Suite 600, Pensacola, Florida, USA",
+    "website": null,
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Caj'n Kitch'n",
+    "contactInfo": "tel:+19018404400",
+    "cuisine": "Cajun",
+    "fullAddressText": "Address 382 Atoka Mclaughlin Ave, Atoka, Tennessee, USA, 38004",
+    "website": null,
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Lousiana Seafood House",
+    "contactInfo": "tel:+13523260300",
+    "cuisine": "Seafood, Cajun",
+    "fullAddressText": "Address 117 W Main St, Leesburg, Florida, USA, 34748",
+    "website": null,
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Krispy Krunchy Chicken",
+    "contactInfo": "tel:+19313597111",
+    "cuisine": "Cajun, Creole",
+    "fullAddressText": "Address 1434 Mooresville Hwy, Lewisburg, Tennessee, USA, 37091",
+    "website": null,
+    "socialMediaHandle": null
+  },
+  {
+    "title": "C J's House of Soul",
+    "contactInfo": "tel:+18707869120",
+    "cuisine": "Cajun, Creole, Southern",
+    "fullAddressText": "Address 521 S 1st St, Stephens, Arkansas, USA",
+    "website": null,
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Bourbon Street Grille",
+    "contactInfo": "tel:+16313619255",
+    "cuisine": "Cajun",
+    "fullAddressText": "Address 313 Smith Haven Mall Lake Grove NY 11755, Lake Grove, New York, USA",
+    "website": null,
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Bluff City Bayou",
+    "contactInfo": "tel:+19012748100",
+    "cuisine": "Cajun, Southern",
+    "fullAddressText": "Address 2117 Peabody Ave, Memphis, Tennessee, USA, 38104",
+    "website": null,
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Nola Eatz",
+    "contactInfo": "tel:+12108674218",
+    "cuisine": "Cajun, Creole",
+    "fullAddressText": "Address 5566 North Foster Road, San Antonio, Texas, USA, 78244",
+    "website": null,
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Coco Butter Babies (Food Truck)",
+    "contactInfo": "tel:+13464751722",
+    "cuisine": "Cajun",
+    "fullAddressText": "Address Houston, Texas, USA",
+    "website": null,
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Bayou Chefs Southern Cuisine",
+    "contactInfo": "tel:+13374333610",
+    "cuisine": "Cajun, Fast food",
+    "fullAddressText": "Address 2202 Broad St, Lake Charles, Louisiana, USA, 70601",
+    "website": null,
+    "socialMediaHandle": null
+  },
+  {
+    "title": "The Flying Chicken",
+    "contactInfo": "tel:+16176702222",
+    "cuisine": "Cajun, Creole",
+    "fullAddressText": "Address Maverick 2 Broad Street, Boston, Massachusetts, USA, 2109",
+    "website": null,
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Cookin Wit Gas",
+    "contactInfo": "tel:+17024830078",
+    "cuisine": "Cajun, Creole",
+    "fullAddressText": "Address 89103-4176, Las Vegas, Nevada, USA, 89103",
+    "website": null,
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Monster Mac",
+    "contactInfo": "tel:+18336982483",
+    "cuisine": "Cajun, Creole",
+    "fullAddressText": "Address 66 Mountain Blvd, Warren, New Jersey, USA, 07059",
+    "website": null,
+    "socialMediaHandle": null
+  },
+  {
+    "title": "King Crab",
+    "contactInfo": null,
+    "cuisine": "Cajun, Creole, Seafood",
+    "fullAddressText": "Address 1900 N Central Expy, Plano, Texas, USA, 75074",
+    "website": null,
+    "socialMediaHandle": null
+  },
+  {
+    "title": "King Crab",
+    "contactInfo": "tel:+15852275900",
+    "cuisine": "Cajun, Creole, Seafood Cajun, Creole, Seafood, Salads",
+    "fullAddressText": "Address 300 Constitution Dr Ste 109, Virginia Beach, Virginia, USA, 23462",
+    "website": "kingcrabus.com",
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Down South Flavors",
+    "contactInfo": "tel:+13375706427",
+    "cuisine": "Cajun, Creole, Southern",
+    "fullAddressText": "Address 2305 Opelousas St, Lake Charles, Louisiana, USA, 70601-2646",
+    "website": null,
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Kay’s Kitchen",
+    "contactInfo": null,
+    "cuisine": "Cajun, Creole, Seafood",
+    "fullAddressText": "Address 9274 Richmond Ave Ste 199, Houston, Texas, USA, 77063",
+    "website": null,
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Stellas",
+    "contactInfo": "tel:+13374233511",
+    "cuisine": "Cajun, Creole, Seafood",
+    "fullAddressText": "Address 1506 South Fifth St, Ste B, Leesville, Louisiana, USA, 71446",
+    "website": null,
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Texas Crawfish Supply",
+    "contactInfo": "tel:+13462672474",
+    "cuisine": "Cajun, Creole, Seafood",
+    "fullAddressText": "Address 5815 Fm 1960, Houston, Texas, USA, 77346",
+    "website": null,
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Kelly's Cajun Grill",
+    "contactInfo": "tel:+18133531833",
+    "cuisine": "Cajun",
+    "fullAddressText": "Address 2223 N. West Shore Blvd., Tampa, Florida, USA, 33607",
+    "website": "shopinternationalplaza.com",
+    "socialMediaHandle": null
+  },
+  {
+    "title": "B'lieve Creole Kitchen",
+    "contactInfo": "tel:+15045158329",
+    "cuisine": "Cajun, Creole, Seafood",
+    "fullAddressText": "Address 8155 Richmond Avenue, Houston, Texas, USA, 77063",
+    "website": null,
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Cajun Quarters",
+    "contactInfo": "tel:+18558491513",
+    "cuisine": "Cajun, Creole",
+    "fullAddressText": "Address 5876 W Irlo Bronson Memorial Hwy, Kissimmee, Florida, USA, 34746",
+    "website": null,
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Bayou Affect",
+    "contactInfo": "tel:+12253971877",
+    "cuisine": "Cajun, Creole, Seafood",
+    "fullAddressText": "Address 3347 Nicholson Dr, Baton Rouge, Louisiana, USA, 70802",
+    "website": null,
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Ozarks Seafood",
+    "contactInfo": "tel:+18703685555",
+    "cuisine": "Cajun, Creole, Seafood",
+    "fullAddressText": "Address 395 N Main St, Melbourne, Arkansas, USA, 72556",
+    "website": "ozarksseafood.net",
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Slap Daddy's BBQ",
+    "contactInfo": "tel:+14047835034",
+    "cuisine": "Cajun, Creole, Barbecue",
+    "fullAddressText": "Address Marietta, Georgia, USA",
+    "website": null,
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Monster Mac",
+    "contactInfo": "tel:+18336982483",
+    "cuisine": "Cajun, Creole",
+    "fullAddressText": "Address 10943 Kingston Pike, Knoxville, Tennessee, USA, 37934",
+    "website": null,
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Creole Kitchen",
+    "contactInfo": "tel:+12252407380",
+    "cuisine": "Cajun, Creole",
+    "fullAddressText": "Address 2324 False River Dr, New Roads, Louisiana, USA, 70760",
+    "website": null,
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Krawfish Krazee & More",
+    "contactInfo": "tel:+18329899455",
+    "cuisine": "Cajun, Creole, Seafood",
+    "fullAddressText": "Address 9221 Pagewood Ln 113, Houston, Texas, USA, 77063",
+    "website": null,
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Monster Mac",
+    "contactInfo": "tel:+18336982483",
+    "cuisine": "Cajun, Creole",
+    "fullAddressText": "Address 24th Street Mission 998 Guerrero Street, San Francisco, California, USA, 94110",
+    "website": null,
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Liz & Nomie’s Gourmet Eats",
+    "contactInfo": "tel:+12285630363",
+    "cuisine": "Cajun, Creole",
+    "fullAddressText": "Address 13427 Grady Dr, Gulfport, Mississippi, USA, 39503",
+    "website": null,
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Krispy Krunchy Chicken",
+    "contactInfo": "tel:+19203369880",
+    "cuisine": "Cajun, Creole",
+    "fullAddressText": "Address 3691 Monroe Road, De Pere, Wisconsin, USA, 54115",
+    "website": null,
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Cajun House",
+    "contactInfo": "tel:+17185295850",
+    "cuisine": "Cajun, Creole",
+    "fullAddressText": "Address Ozone Park–Lefferts Boulevard 111-56 Van Wyck Expy, New York City, New York, USA, 11420",
+    "website": null,
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Monster Mac",
+    "contactInfo": "tel:+18336982483",
+    "cuisine": "Cajun, Creole",
+    "fullAddressText": "Address 28811 South Tamiami Trail, Bonita Springs, Florida, USA, 34134",
+    "website": null,
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Cajun Rice Box",
+    "contactInfo": null,
+    "cuisine": "Cajun, Creole",
+    "fullAddressText": "Address 642 9th Ave, West New York, New Jersey, USA, 10036",
+    "website": null,
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Lagayette Cajun Seafood Kitchen",
+    "contactInfo": null,
+    "cuisine": "Cajun, Creole",
+    "fullAddressText": "Address 2218 Smith Rd, Freeport, Texas, USA, 77541",
+    "website": null,
+    "socialMediaHandle": null
+  },
+  {
+    "title": "PJ Poboys and Subs",
+    "contactInfo": null,
+    "cuisine": "Cajun, Creole, Sandwiches",
+    "fullAddressText": "Address 11159-11183 River Rd, Destrehan, Louisiana, USA, 70047",
+    "website": null,
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Creole",
+    "contactInfo": null,
+    "cuisine": "Cajun, Creole",
+    "fullAddressText": "Address 3991 Pontchartrain Dr, Slidell, Louisiana, USA, 70458",
+    "website": null,
+    "socialMediaHandle": null
+  },
+  {
+    "title": "The LL Cajun",
+    "contactInfo": null,
+    "cuisine": "Cajun, Creole",
+    "fullAddressText": "Address Aubrey Dr, Houma, Louisiana, USA, 70360",
+    "website": null,
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Bona",
+    "contactInfo": null,
+    "cuisine": "Cajun, Creole",
+    "fullAddressText": "Address 5441 Blue Water Lake Dr, Fort Worth, Texas, USA, 76137",
+    "website": null,
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Flavor Cajun Wings & Waffles",
+    "contactInfo": "tel:+17082059407",
+    "cuisine": "Cajun, Creole",
+    "fullAddressText": "Address Cermak–McCormick Place 2537 S Wabash Ave, Chicago, Illinois, USA, 60616",
+    "website": null,
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Creole Nouvelle",
+    "contactInfo": "tel:+14043555753",
+    "cuisine": "Cajun",
+    "fullAddressText": "Address 135 Riverside Pkwy SW, Atlanta, Georgia, USA, 30168",
+    "website": null,
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Bams Crab Place",
+    "contactInfo": "tel:+17173790406",
+    "cuisine": "Cajun, Creole, Seafood",
+    "fullAddressText": "Address 1860 Walnut St, Harrisburg, Pennsylvania, USA, 17103",
+    "website": null,
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Circle M Crawfish",
+    "contactInfo": "tel:+19039393919",
+    "cuisine": "Cajun, Creole",
+    "fullAddressText": "Address 14801 Highway 110 S, Tyler, Texas, USA, 75701",
+    "website": null,
+    "socialMediaHandle": null
+  },
+  {
+    "title": "John Gonzales",
+    "contactInfo": "tel:+16269684678",
+    "cuisine": "Cajun, Creole, Seafood",
+    "fullAddressText": "Address 2020 S Hacienda Blvd Ste F, Hacienda Heights, California, USA, 91745",
+    "website": null,
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Kajun Eatz",
+    "contactInfo": "tel:+13375783964",
+    "cuisine": "Cajun, Creole",
+    "fullAddressText": "Address 1702 N 1st St, Carrizo Springs, Texas, USA, 78834",
+    "website": null,
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Finga Foodz",
+    "contactInfo": "tel:+18327317799",
+    "cuisine": "Cajun",
+    "fullAddressText": "Address Location Varies, Houston, Texas, USA, 77044",
+    "website": "fingafoodz.weebly.com",
+    "socialMediaHandle": "@FingaFoodz"
+  },
+  {
+    "title": "Bourbon Street Bar & Grill",
+    "contactInfo": "tel:+19858881200",
+    "cuisine": "Cajun, Creole",
+    "fullAddressText": "Address 45 Louis Prima Dr, Covington, Louisiana, USA, 70433-5904",
+    "website": null,
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Jive Turkeys Soul Kitchen",
+    "contactInfo": "tel:+19782455470",
+    "cuisine": "Cajun, Creole",
+    "fullAddressText": "Address 301b Lancaster St, Leominster, Massachusetts, USA",
+    "website": null,
+    "socialMediaHandle": null
+  },
+  {
+    "title": "Southern Charm Restaurant",
+    "contactInfo": "tel:+18653369061",
+    "cuisine": "American, Cajun, Creole",
+    "fullAddressText": "Address 218 S Calderwood, Alcoa, Tennessee, USA, 37701",
+    "website": "bravotv.com",
+    "socialMediaHandle": "@bravotv"
+  }
+]

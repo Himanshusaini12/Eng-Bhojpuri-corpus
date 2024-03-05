@@ -5,7 +5,7 @@ const fs = require('fs');
     const pathToExtension = require('path').join(__dirname, 'CapSolver.Browser.Extension');
 
     const browser = await puppeteer.launch({
-        headless: "new",
+        headless: false,
         args: [
             `--disable-extensions-except=${pathToExtension}`,
             `--load-extension=${pathToExtension}`,
@@ -22,7 +22,7 @@ const fs = require('fs');
     for (const linkObj of links) {
         const page = await browser.newPage();
         try {
-            await page.goto(linkObj.href, { waitUntil: 'domcontentloaded' });
+            await page.goto(linkObj, { waitUntil: 'domcontentloaded' });
 
             const captchaForm = await page.$('.contact_form.ab_check_form');
             if (captchaForm) {
@@ -87,6 +87,8 @@ const fs = require('fs');
     // Console the number of failed links
     console.log('Number of failed links:', failedLinks.length);
     console.log('Failed links:', failedLinks);
+    const failedLinksJson = JSON.stringify(failedLinks, null, 2);
+    fs.writeFileSync('failed_links.json', failedLinksJson);
 
     await browser.close();
 
