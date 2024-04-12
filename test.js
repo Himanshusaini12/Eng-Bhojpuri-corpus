@@ -1,92 +1,46 @@
 const puppeteer = require('puppeteer');
-const fs = require('fs');
+const faker = require('faker');
 
 (async () => {
-    let scrapedData = []; // Array to store scraped data
-    let failedLinks = []; // Array to store failed links
+    const pathToExtension = require('path').join(__dirname, 'CapSolver.Browser.Extension');
 
-    // Read restaurant links from the JSON file
-    const links = JSON.parse(fs.readFileSync('links.json', 'utf8'));
+    const browser = await puppeteer.launch({
+        headless: "new",
+        args: [
+        `--disable-extensions-except=${pathToExtension}`,
+        `--load-extension=${pathToExtension}`,
+        '--no-sandbox', '--window-size=1400,800'
+        ],
+    // executablePath: executablePath()
+    });
+  const page = await browser.newPage();
+  
+  // Navigate to the URL
+  await page.goto('https://giveaway.proxyjet.io/ref/65fc0b9dd3473M');
 
-    for (const linkObj of links) {
-        const pathToExtension = require('path').join(__dirname, 'CapSolver.Browser.Extension');
-        const browser = await puppeteer.launch({
-            headless: "new",
-            args: [
-                `--disable-extensions-except=${pathToExtension}`,
-                `--load-extension=${pathToExtension}`,
-                '--no-sandbox', '--window-size=1400,800'
-            ],
-        });
+  // Wait for the form to load
+  await page.waitForSelector('.form-signup__inner');
 
-        try {
-            const page = await browser.newPage();
-            await page.goto(linkObj.href, { waitUntil: 'domcontentloaded' });
+  // Generate random details
+  const randomName = faker.name.findName();
+  const randomEmail = faker.internet.email();
+  const randomPhoneNumber = faker.phone.phoneNumber();
+  const randomSocialChannel = faker.random.arrayElement(['Facebook', 'LinkedIn', 'Telegram', 'Discord', 'WhatsApp', 'Skype']);
+  const randomSocialID = faker.internet.userName();
 
-            const captchaForm = await page.$('.contact_form.ab_check_form');
-            if (captchaForm) {
-                await page.waitForTimeout(20000)
-                await page.click('.btn_wrapper input[type="submit"]');
-            }
+  // Fill the form with random details
+  await page.type('input[name="txt_name"]', randomName);
+  await page.type('input[name="txt_email"]', randomEmail);
+  await page.type('input[name="PhoneNumber"]', randomPhoneNumber);
+  await page.select('select[name="SocialChannel"]', randomSocialChannel);
+  await page.type('input[name="SocialID"]', randomSocialID);
+  await page.click('input[name="upv_form_170618260338565_terms_condition"]'); // Check terms and conditions
 
-            //await page.waitForSelector('.title_container .notranslate');
-            await page.waitForSelector('.buttons_wrapper');
-            // await page.waitForSelector('.address'); // Wait for the address to load
+  // Submit the form
+  await page.click('#lead_button');
 
-            // Extract data from the page
-            const titleElement = await page.$('.title_container .notranslate');
-            const title = titleElement ? (await titleElement.evaluate(title => title.textContent.trim().replace(/\s+/g, ' '))) : null;
-
-            const cuisineElement = await page.$('.cuisine_wrapper');
-            const cuisine = cuisineElement ? (await cuisineElement.evaluate(cuisine => cuisine.textContent.trim().replace(/\s+/g, ' '))) : null;
-
-            const fullAddressElement = await page.$('.address');
-            const fullAddressText = fullAddressElement ? (await fullAddressElement.evaluate(address => address.textContent.trim().replace(/\s+/g, ' '))) : null;
-
-            const websiteElement = await page.$('.website a');
-            const website = websiteElement ? (await websiteElement.evaluate(website => website.textContent.trim())) : null;
-
-            const socialMediaElement = await page.$('.instagram .insta_btn');
-            const socialMediaHandle = socialMediaElement ? (await socialMediaElement.evaluate(insta => insta.textContent.trim())) : null;
-
-            const contactInfoElement = await page.$('.buttons_wrapper .call-write__wrap .call');
-            const contactInfo = contactInfoElement ? await contactInfoElement.evaluate(call => call.getAttribute('href')) : null;
-
-            // Add the scraped data to the array
-            scrapedData.push({
-                title,
-                contactInfo,
-                cuisine,
-                fullAddressText,
-                website,
-                socialMediaHandle
-            });
-
-            // Write scraped data to a JSON file after scraping each page
-            const jsonData = JSON.stringify(scrapedData, null, 2);
-            fs.writeFileSync('scraped_data.json', jsonData);
-
-            console.log('Number of scraped links:', scrapedData.length);
-            console.log('Number of failed links:', failedLinks.length);
-
-        } catch (error) {
-            console.error('Error during scraping:', error);
-            failedLinks.push(linkObj.href); // Add the failed link to the array
-        } finally {
-            await browser.close();
-        }
-    }
-
-    // Write failed links to a JSON file
-    const failedLinksJson = JSON.stringify(failedLinks, null, 2);
-    fs.writeFileSync('failed_links.json', failedLinksJson);
-
-    // Console the number of scraped links
-    console.log('Number of scraped links:', scrapedData.length);
-
-    // Console the number of failed links
-    console.log('Number of failed links:', failedLinks.length);
-    console.log('Failed links:', failedLinks);
-
-    console.log('Scraping complete!');
+  // Optional: You can add further actions here, like waiting for a confirmation message or navigating to another page
+  
+  // Close the browser
+  //await browser.close();
 })();
