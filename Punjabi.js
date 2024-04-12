@@ -3,7 +3,7 @@ const fs = require('fs');
 const ExcelJS = require('exceljs');
 
 (async () => {
-  const browser = await puppeteer.launch({ headless: false });
+  const browser = await puppeteer.launch({ headless: 'new' ,args: [ "--no-sandbox"]});
   const page1 = await browser.newPage();
   const page2 = await browser.newPage();
   const page3 = await browser.newPage();
